@@ -1,5 +1,12 @@
 header {
-    background-color: red;
+    background-color: white;
     height: 70px;
     width: 100%;
+    border-bottom: 1px #CCCCCC;
+}
+
+.logo-container {
+    display: flex;
+    align-items: center;
+    margin-left: 20px;
 }
