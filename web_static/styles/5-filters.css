@@ -27,3 +27,7 @@
     width: 25%;
     display: inline-block;
 }
+
+.locations {
+    border-right: 1px solid #DDDDDD;
+}
