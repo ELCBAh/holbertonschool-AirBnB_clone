@@ -25,4 +25,5 @@
 .locations, .amenities {
     height: 100%;
     width: 25%;
+    display: inline-block;
 }
