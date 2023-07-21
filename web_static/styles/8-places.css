@@ -10,6 +10,13 @@
             box-sizing: border-box;
 }
 
+.places {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    width: 100%;
+}
+
 .places article {
     width: 390px;
     padding: 20px;
