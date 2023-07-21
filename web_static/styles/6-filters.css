@@ -26,6 +26,7 @@
     height: 100%;
     width: 25%;
     display: inline-block;
+    position: relative;
 }
 
 .locations {
@@ -68,4 +69,5 @@
     width: 100%;
     border: 1px solid #DDDDDD;
     display: none;
+    position: absolute;
 }
