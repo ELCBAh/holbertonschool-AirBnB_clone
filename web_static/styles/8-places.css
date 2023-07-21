@@ -26,12 +26,19 @@
     height: 60px;
     font-size: 30px;
     align-items: center;
+    display: flex;
+    justify-content: center;
 }
 
 .places .information {
     height: 80px;
     border-top: 1px solid #DDDDDD;
     border-bottom: 1px solid #DDDDDD;
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    text-align: center;
 }
 
 .places .max_guest,
