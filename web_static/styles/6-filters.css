@@ -58,6 +58,11 @@
     background-color: #FAFAFA;
 }
 
+.filters .locations:hover .popover,
+.filters .amenities:hover .popover {
+    display: block;
+}
+
 .filters .locations {
     background-color: #FAFAFA;
     width: 100%;
